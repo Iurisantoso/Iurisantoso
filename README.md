@@ -20,16 +20,18 @@ Me chamo Iuri Santos Oliveira, tenho 20 anos e sou natural da Bahia. Concluí o 
 ### 🛠️ Habilidades e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,html,css&theme=dark" />
+  <table align="center">
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /><br /><sub>Python</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" /><br /><sub>R</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /><br /><sub>MySQL</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" /><br /><sub>Machine Learning</sub></td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" height="50" /><br /><sub>Power BI</sub></td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="50" height="50" /><br /><sub>Excel</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/VBA-217346?" width="50" height="50" /><br /><sub>VBA</sub></td>
+    </tr>
+  </table>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel_%2F_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-</p>
-
 ### 🚀 Projetos em Destaque
 
 <table>
