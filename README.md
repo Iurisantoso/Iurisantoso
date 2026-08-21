@@ -57,7 +57,7 @@ Breve descrição do problema resolvido e das técnicas/ferramentas utilizadas.
 </tr>
 </table>
 
-### 📌 Experiência em destaque
+### 📌 Experiências
 
 - 🔬 **Iniciação Científica** — CTI Renato Archer (ago/2026 – atual)
 - 📊 **Gerenciador e Assessor de Projetos de Dados** — Estat Júnior (mar/2025 – jul/2026)
