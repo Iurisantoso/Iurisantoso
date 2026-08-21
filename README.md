@@ -57,8 +57,6 @@ Breve descrição do problema resolvido e das técnicas/ferramentas utilizadas.
 </tr>
 </table>
 
-<p align="center"><sub>Substitua os links e descrições acima pelos seus repositórios reais.</sub></p>
-
 ### 📌 Experiência em destaque
 
 - 🔬 **Iniciação Científica** — CTI Renato Archer (ago/2026 – atual)
