@@ -57,13 +57,12 @@ Breve descrição do problema resolvido e das técnicas/ferramentas utilizadas.
 
 <p align="center"><sub>Substitua os links e descrições acima pelos seus repositórios reais.</sub></p>
 
-### 📌 Experiências
+### 📌 Experiência em destaque
 
-- 🔬 **Iniciação Científica** — CTI Renato Archer   (ago/2026–atual)
-- 📊 **Gerenciador e Assessor de Projetos de Dados** — Estat Júnior   (mar/2025–jul/2026)
-- 🔐 **Educador em Cibersegurança** — Projeto de Extensão   (ago/2025–dez/2025)
-- 🏅 **Operador Logístico de Premiação** — OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas)   (dez/2024–ago/2026)
-- 🧮 **Monitor de Matemática** — POTI (Polo Olímpico de Treinamento Intensivo)   (ago/2024–dez/2024)
+- 🔬 **Iniciação Científica** — CTI Renato Archer (ago/2026–atual)
+- 📊 **Gerenciador de Projetos de Dados** — Estat Júnior (mai/2025–jul/2026)
+- 🔐 **Educador em Cibersegurança** — Projeto de Extensão (ago/2025–dez/2025)
+- 🏅 **Operador Logístico de Premiação** — OBMEP (dez/2024–abr/2025)
 
 ### 📈 Estatísticas de uso
 
