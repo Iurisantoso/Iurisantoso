@@ -1,26 +1,44 @@
-# 👋 Olá, eu sou o Iuri Santos!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=Iuri%20Santos%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estat%C3%ADstica%20%7C%20Dados%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" />
+</p>
 
-Sou estudante de Estatística na Unicamp com uma paixão por transformar dados em insights e soluções. Atualmente, desenvolvo pesquisas em aprendizado de máquina e análise de dados no CTI Renato Archer.
+<p align="center">
+  <a href="https://linkedin.com/in/iurisantoso"><img src="https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:iuri.santos2027@gmail.com"><img src="https://img.shields.io/badge/-Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-*   🔭 Atualmente trabalhando em: Iniciação Científica no CTI/MCTI.
-*   🌱 Sempre aprendendo mais sobre: Machine Learning, Interpretabilidade de Modelos e Dashboards.
-*   👯 Buscando colaborar em: Projetos de análise de dados e automação.
-*   🎯 Objetivo para 2026: Conseguir um estágio na área de Dados e Tecnologia.
-
----
-
-## 🛠️ Minhas Ferramentas
-
-*   **Linguagens:** R, Python, SQL, VBA
-*   **Visualização:** Power BI, Excel, Matplotlib, Seaborn
-*   **Outras:** Git, LaTeX, Estatística, Aprendizado de Máquina
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Graduando+em+Estat%C3%ADstica+%40+Unicamp;Machine+Learning+%26+Interpretabilidade;An%C3%A1lise+de+Dados+%7C+Dashboards+%7C+KPIs;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&color=6C63FF&size=20" />
+</p>
 
 ---
 
-## 📫 Como me encontrar
+### 💜 Sobre mim
 
-*   [LinkedIn](https://www.linkedin.com/in/iurisantoso)
-*   Email: iuri.santos2027@gmail.com
+Sou graduando em Estatística e atualmente desenvolvo Iniciação Científica no **CTI Renato Archer**, aplicando aprendizado de máquina, interpretabilidade de modelos (LIME, Shapley) e análise estatística a dados de saúde.
 
----
-⭐️ Sinta-se à vontade para explorar meus repositórios!
+Já atuei liderando projetos de dados na **Estat Júnior**, com análises de COVID-19, dashboards em Power BI e relatórios técnicos, além de ter dado oficinas de cibersegurança para estudantes.
+
+### 🧰 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel_%2F_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
+
+### 📌 Experiência em destaque
+
+- 🔬 **Iniciação Científica** — CTI Renato Archer (2026–atual)
+- 📊 **Gerenciador de Projetos de Dados** — Estat Júnior (2025–2026)
+- 🔐 **Educador em Cibersegurança** — Projeto de Extensão (2025)
+- 🏅 **Operador Logístico de Premiação** — OBMEP (2024–2025)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=100&section=footer" />
+</p>
