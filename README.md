@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Iuri%20Santos%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estat%C3%ADstica%20%7C%20Dados%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Iuri%20Santos%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estat%C3%ADstica%20%7C%20Dados%20%7C%20Intelig%C3%AAncia%20Artificial&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
@@ -8,16 +8,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Graduando+em+Estat%C3%ADstica+%40+Unicamp;Machine+Learning+%26+Interpretabilidade;An%C3%A1lise+de+Dados+%7C+Dashboards+%7C+KPIs;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&color=00B4D8&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Graduando+em+Estat%C3%ADstica+na+Unicamp;Cientista+de+Dados+em+forma%C3%A7%C3%A3o;Transformando+dados+em+insights;Movido+por+desafios+e+aprendizado;Apaixonado+por+dados+e+machine+learning&font=Fira+Code&center=true&width=500&color=00B4D8&size=20" />
 </p>
 
 ---
 
 ### 💚 Sobre mim
 
-Sou graduando em Estatística e atualmente desenvolvo Iniciação Científica no **CTI Renato Archer**, aplicando aprendizado de máquina, interpretabilidade de modelos (LIME, Shapley) e análise estatística a dados de saúde.
-
-Já atuei liderando projetos de dados na **Estat Júnior**, com análises de COVID-19, dashboards em Power BI e relatórios técnicos, além de ter dado oficinas de cibersegurança para estudantes.
+Me chamo Iuri Santos Oliveira, tenho 20 anos e sou natural da Bahia. Concluí o ensino médio no Centro Paula Souza, com o curso técnico em Química. Atualmente, estou cursando Estatística na Unicamp desenvolvendo um projeto de Iniciação Científica no Centro de Tecnologia da Informação Renato Archer, aplicando aprendizado de máquina, interpretabilidade de modelos (LIME, Shapley) e análise estatística a dados na área da saúde com foco na compreensão de fatores associados a condições clínicas e na predição de desfechos de interesse.
 
 ### 🛠️ Habilidades e Tecnologias
 
@@ -59,12 +57,13 @@ Breve descrição do problema resolvido e das técnicas/ferramentas utilizadas.
 
 <p align="center"><sub>Substitua os links e descrições acima pelos seus repositórios reais.</sub></p>
 
-### 📌 Experiência em destaque
+### 📌 Experiências
 
-- 🔬 **Iniciação Científica** — CTI Renato Archer (2026–atual)
-- 📊 **Gerenciador de Projetos de Dados** — Estat Júnior (2025–2026)
-- 🔐 **Educador em Cibersegurança** — Projeto de Extensão (2025)
-- 🏅 **Operador Logístico de Premiação** — OBMEP (2024–2025)
+- 🔬 **Iniciação Científica** — CTI Renato Archer   (ago/2026–atual)
+- 📊 **Gerenciador e Assessor de Projetos de Dados** — Estat Júnior   (mar/2025–jul/2026)
+- 🔐 **Educador em Cibersegurança** — Projeto de Extensão   (ago/2025–dez/2025)
+- 🏅 **Operador Logístico de Premiação** — OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas)   (dez/2024–ago/2026)
+- 🧮 **Monitor de Matemática** — POTI (Polo Olímpico de Treinamento Intensivo)   (ago/2024–dez/2024)
 
 ### 📈 Estatísticas de uso
 
