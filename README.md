@@ -19,7 +19,7 @@ Sou graduando em Estatística e atualmente desenvolvo Iniciação Científica no
 
 Já atuei liderando projetos de dados na **Estat Júnior**, com análises de COVID-19, dashboards em Power BI e relatórios técnicos, além de ter dado oficinas de cibersegurança para estudantes.
 
-### 🧰 Stack
+### 🛠️ Habilidades e Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,html,css&theme=dark" />
@@ -32,12 +32,46 @@ Já atuei liderando projetos de dados na **Estat Júnior**, com análises de COV
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
+### 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[Nome do Projeto 1](https://github.com/iurisantoso/projeto-1)**
+Breve descrição do problema resolvido e das técnicas/ferramentas utilizadas (ex.: EDA, modelo preditivo, dashboard).
+
+</td>
+<td width="33%" valign="top">
+
+**[Nome do Projeto 2](https://github.com/iurisantoso/projeto-2)**
+Breve descrição do problema resolvido e das técnicas/ferramentas utilizadas.
+
+</td>
+<td width="33%" valign="top">
+
+**[Nome do Projeto 3](https://github.com/iurisantoso/projeto-3)**
+Breve descrição do problema resolvido e das técnicas/ferramentas utilizadas.
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Substitua os links e descrições acima pelos seus repositórios reais.</sub></p>
+
 ### 📌 Experiência em destaque
 
 - 🔬 **Iniciação Científica** — CTI Renato Archer (2026–atual)
 - 📊 **Gerenciador de Projetos de Dados** — Estat Júnior (2025–2026)
 - 🔐 **Educador em Cibersegurança** — Projeto de Extensão (2025)
 - 🏅 **Operador Logístico de Premiação** — OBMEP (2024–2025)
+
+### 📈 Estatísticas de uso
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iurisantoso&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurisantoso&layout=compact&theme=radical&hide_border=true" width="35%" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=100&section=footer" />
