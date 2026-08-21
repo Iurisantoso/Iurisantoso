@@ -31,6 +31,7 @@ Me chamo Iuri Santos Oliveira, tenho 20 anos e sou natural da Bahia. Concluí o 
     </tr>
   </table>
 </p>
+
 ### 🚀 Projetos em Destaque
 
 <table>
