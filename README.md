@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=Iuri%20Santos%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estat%C3%ADstica%20%7C%20Dados%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Iuri%20Santos%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estat%C3%ADstica%20%7C%20Dados%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/iurisantoso"><img src="https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iuri.santos2027@gmail.com"><img src="https://img.shields.io/badge/-Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/iurisantoso"><img src="https://img.shields.io/badge/-LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:iuri.santos2027@gmail.com"><img src="https://img.shields.io/badge/-Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Graduando+em+Estat%C3%ADstica+%40+Unicamp;Machine+Learning+%26+Interpretabilidade;An%C3%A1lise+de+Dados+%7C+Dashboards+%7C+KPIs;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&color=6C63FF&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Graduando+em+Estat%C3%ADstica+%40+Unicamp;Machine+Learning+%26+Interpretabilidade;An%C3%A1lise+de+Dados+%7C+Dashboards+%7C+KPIs;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&color=00B4D8&size=20" />
 </p>
 
 ---
 
-### 💜 Sobre mim
+### 💚 Sobre mim
 
 Sou graduando em Estatística e atualmente desenvolvo Iniciação Científica no **CTI Renato Archer**, aplicando aprendizado de máquina, interpretabilidade de modelos (LIME, Shapley) e análise estatística a dados de saúde.
 
@@ -69,10 +69,10 @@ Breve descrição do problema resolvido e das técnicas/ferramentas utilizadas.
 ### 📈 Estatísticas de uso
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iurisantoso&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurisantoso&layout=compact&theme=radical&hide_border=true" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iurisantoso&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurisantoso&layout=compact&theme=dark&hide_border=true" width="35%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=100&section=footer" />
 </p>
