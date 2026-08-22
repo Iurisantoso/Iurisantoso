@@ -65,13 +65,6 @@ Breve descrição do problema resolvido e das técnicas/ferramentas utilizadas.
 - 🏅 **Operador Logístico de Premiação** — OBMEP - Olimpíada Brasileira de Matemática das Escolas Públicas (dez/2024 – ago/2026)
 - 🧮 **Monitor de Matemática** — POTI - Polo Olímpico de Treinamento Intensivo (ago/2024 – dez/2024)
 
-### 📈 Estatísticas de uso
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iurisantoso&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurisantoso&layout=compact&theme=dark&hide_border=true" width="35%" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=100&section=footer" />
 </p>
